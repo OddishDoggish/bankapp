@@ -1,0 +1,67 @@
+{
+    "userId": 1,
+    "username": "god",
+    "password": "b4nk3r",
+    "firstName": "Elaina",
+    "lastName": "Comstock",
+    "email": "ecomstock@thebank.com",
+    "role": {
+        "id": 1,
+        "name": "admin"
+    },
+    "accountList": []
+}
+
+{
+    "username": "god",
+    "password": "b4nk3r"
+}
+
+{
+    "userId": 0,
+    "username": "mpark",
+    "password": "KittyFeet",
+    "firstName": "Matthew",
+    "lastName": "Parker",
+    "email": "mpark@thegoogles.com",
+    "role": {
+		"id": 4,
+		"name": "standard"
+	}
+}
+
+{
+    "username": "destridge",
+    "password": "Big1WAGun",
+    "firstName": "David",
+    "lastName": "Estridge",
+    "email": "destridge@thegoogles.com",
+    "role": {
+		"id": 4,
+		"name": "standard"
+	}
+}
+
+{
+    "username": "aria",
+    "password": "HGisaJERK",
+    "firstName": "Mia",
+    "lastName": "Riven",
+    "email": "mriven@thebank.com",
+    "role": {
+		"id": 2,
+		"name": "employee"
+	}
+}
+
+{
+    "username": "highlady",
+    "password": "GirlzRule",
+    "firstName": "Alis",
+    "lastName": "Valardin",
+    "email": "princess@sanctum.com",
+    "role": {
+		"id": 4,
+		"name": "standard"
+	}
+}
